@@ -1,3 +1,5 @@
+<p align="center"><img src="screenshots/icon.png" width="128" alt="FlattFile app icon"></p>
+
 # FlattFile – Free PDF & Image Compressor for macOS
 
 Compress PDFs and images and remove metadata on macOS. Supports PDF, JPEG, PNG, HEIC, TIFF, BMP and RAW via drag and drop. A free alternative to ImageOptim and PDF Squeezer.
