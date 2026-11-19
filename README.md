@@ -6,6 +6,8 @@ Compress PDFs and images and remove metadata on macOS. Supports PDF, JPEG, PNG, 
 
 ![FlattFile – Free PDF & Image Compressor for macOS](screenshots/flattfile.png)
 
+**Download:** [latest release](../../releases/latest) → unzip, move FlattFile to Applications. On first launch right-click → Open (the app is not notarized).
+
 **Build:** macOS 14+, Xcode Command Line Tools → `./build_app.sh`
 
 Feedback and ideas are welcome – just open an [issue](../../issues).
